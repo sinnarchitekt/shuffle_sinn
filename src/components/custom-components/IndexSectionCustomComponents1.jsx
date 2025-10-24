@@ -33,7 +33,7 @@ const IndexSectionCustomComponents1 = () => {
                         <div className="lg:max-w-lg">
                             <span className="text-xl md:text-2xl font-extrabold text-indigo-500">Sinnarchitekt</span>
                             <h1 className="text-3xl sm:text-4xl lg:text-5xl font-extrabold font-heading mt-1 mb-6">Eine digitale Oase für deine Sinne.</h1>
-                            <p className="text-xl md:text-2xl font-extrabold leading-8 mb-10">Willkommen bei SensoryCalm. Wir schaffen digitale Erlebnisse, die auf Ihre sensorischen Bedürfnisse zugeschnitten sind. In einer Welt voller Reizüberflutung bieten wir Ihnen einen ruhigen und barrierefreien Raum. Erfahren Sie mehr über die faszinierende Welt der menschlichen Sinne und wie wir sie im Einklang mit dem Barrierefreiheitsstärkungsgesetz (BFSG) berücksichtigen.</p>
+                            <p className="text-xl md:text-2xl font-extrabold leading-8 mb-10">Willkommen bei Sinnarchitekt. Wir schaffen digitale Erlebnisse, die auf Ihre sensorischen Bedürfnisse zugeschnitten sind. In einer Welt voller Reizüberflutung bieten wir Ihnen einen ruhigen und barrierefreien Raum. Erfahren Sie mehr über die faszinierende Welt der menschlichen Sinne und wie wir sie im Einklang mit dem Barrierefreiheitsstärkungsgesetz (BFSG) berücksichtigen.</p>
                             <div className="flex flex-wrap -mx-2 mb-6">
                                 <div className="w-full md:w-auto px-2" />
                             </div>

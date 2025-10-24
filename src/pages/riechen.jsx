@@ -5,7 +5,7 @@ const RiechenPage = () => {
   return (
     <Layout>
       <Head>
-        <title>Riechen - SensoryCalm</title>
+        <title>Riechen - Sinnarchitekt</title>
       </Head>
       
       {/* Container für den Seiteninhalt */}

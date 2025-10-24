@@ -6,7 +6,7 @@ const HoerenPage = () => {
   return (
     <Layout>
       <Head>
-        <title>Hören - SensoryCalm</title>
+        <title>Hören - Sinnarchitekt</title>
       </Head>
       
       {/* Container für den Seiteninhalt */}

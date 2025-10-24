@@ -5,7 +5,7 @@ const TastenPage = () => {
   return (
     <Layout>
       <Head>
-        <title>Tasten - SensoryCalm</title>
+        <title>Tasten - Sinnarchitekt</title>
       </Head>
       
       {/* Container für den Seiteninhalt */}

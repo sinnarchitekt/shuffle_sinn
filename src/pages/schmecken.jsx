@@ -5,7 +5,7 @@ const SchmeckenPage = () => {
   return (
     <Layout>
       <Head>
-        <title>Schmecken - SensoryCalm</title>
+        <title>Schmecken - Sinnarchitekt</title>
       </Head>
       
       {/* Container für den Seiteninhalt */}
