@@ -7,7 +7,7 @@ const Impressum = () => {
       
       <h2>Angaben gemäß § 5 TMG</h2>
       <p>
-        <strong>Sinnarchitekt</strong>
+        <strong>Fabian Schuller</strong>
         <br />Radetzkystr. 29<br />
         86165 Augsburg
       </p>
